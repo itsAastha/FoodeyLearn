@@ -1,6 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:400,600");
-   
-
 
 body {
   margin: 0;
@@ -167,10 +165,9 @@ nav a:hover::before {
 .about strong:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
-
 }
-.about__description:hover{
-  color: rgb(243, 111, 39) ;
+.about__description:hover {
+  color: rgb(243, 111, 39);
 }
 
 .small_sec {
@@ -185,12 +182,9 @@ nav a:hover::before {
   color: beige;
   display: grid;
   padding: 5%;
-  
 }
 .services__container {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-
-  
 }
 .bd-grid {
   display: grid;
@@ -204,7 +198,7 @@ nav a:hover::before {
   justify-items: center;
 }
 
-.services__content{
+.services__content {
   outline-color: white;
   outline-style: outset;
   outline-offset: 2ch;
@@ -223,21 +217,19 @@ footer {
   display: flex;
 }
 
-footer ul li{
-    list-style: none;
+footer ul li {
+  list-style: none;
 }
 .cred div {
-    margin: 300%;
-    padding: 5%;
+  margin: 300%;
+  padding: 5%;
 }
-.footer__title{
-    margin: 10%;
+.footer__title {
+  margin: 10%;
 }
-.contact{
-    float: right;
-    display: flex;
-    flex-direction: column;
-    margin-left: 100px;
+.contact {
+  float: right;
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
 }
-
-    
