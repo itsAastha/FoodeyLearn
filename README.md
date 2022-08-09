@@ -1,10 +1,9 @@
 # Foodey Frontend Website
 
-Private Repo
+Here's a demo website that I made using basic HTML and css
 
-## Description
+it's my first web development test project.
 
-Private Repo
 
 ## Authors
 
